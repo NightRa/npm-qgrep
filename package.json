@@ -1,0 +1,16 @@
+{
+  "name": "npm-qgrep",
+  "version": "1.0.0",
+  "description": "A module for using QGrep in a Node project",
+  "main": "lib/index.js",
+  "typings": "lib/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NightRa/npm-qgrep"
+  },
+  "author": "Ilan Godik",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^10.12.0"
+  }
+}
